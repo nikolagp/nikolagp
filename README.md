@@ -1,6 +1,6 @@
 # Hi there, I'm Nikola G. 👋 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nikolagp/nikolagp/blob/master/devcard.svg" width="400" alt="Nikola G's Dev Card"/></a>
+<a href="https://app.daily.dev/amagi_dev"><img src="https://github.com/nikolagp/nikolagp/blob/master/devcard.svg" width="400" alt="Nikola G's Dev Card"/></a>
 
 ## Let me introduce myself 
 
