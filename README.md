@@ -1,8 +1,10 @@
-### Hi there 👋 
+# Hi there, I'm Nikola G. 👋 
 
-- 🔭 I’m currently working on improving my Front End skills and creating my portfolio + blog. I was working mainly with Wordpress CMS, JavaScript and CSS. But it's time to scale up.
-- 🌱 I’m currently learning Vue and its ecosystem including Nuxt, Vuetify, Pinia, Axios, Vitest etc. Aside of that I'm learning Tailwind, Firebase, PWA, 
-- 👯 I’m looking to collaborate on Web Development projects related with Vue, JavaScript or Wordpress.
+<h3> 🔭 I’m currently working on improving my Front End skills while taking a course and creating my portfolio + blog... </h3> 
+I was working mainly with Wordpress CMS, JavaScript and CSS. But it's time to scale up.
+### 🌱 I’m currently learning Vue and its ecosystem including Nuxt, Vuetify, Pinia, Axios, Vitest etc. 
+- Aside of that I'm learning Tailwind, Firebase, PWA, 
+### 👯 I’m looking to collaborate on Web Development projects related with Vue, JavaScript or Wordpress.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 You can find me on Twitter @amagi_dev or contact me on my email: petrovskinikolag@gmail.com
