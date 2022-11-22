@@ -4,9 +4,21 @@
 
 ### 🔭 I’m currently working on improving my Front End skills while taking a course and creating my portfolio + blog... 
 - I was working mainly with Wordpress CMS, JavaScript and CSS. But it's time to scale up.
-### 🌱 I’m currently learning Vue and its ecosystem including Nuxt, Vuetify, Pinia, Axios, Vitest etc. 
-- Aside of that I'm learning Tailwind, Firebase, PWA, 
-### 👯 I’m looking to collaborate on Web Development projects related with Vue, JavaScript or Wordpress.
+### 🌱 I’m currently learning Vue and its ecosystem including:
+- Nuxt, 
+- Vuetify, 
+- Pinia, 
+- Axios,
+- Router, 
+- Vitest etc.
+
+Aside of that I'm learning:
+- Tailwind, 
+- Firebase, 
+- PWA
+
+### 👯 I’m looking to collaborate on web development projects related to Front End technologies preferably Vue and JavaScript.
+
 ### 📫 You can find me on [Twitter](https://twitter.com/amagi_dev) or contact me on my [email](petrovskinikolag@gmail.com).
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
