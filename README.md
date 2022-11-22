@@ -1,6 +1,4 @@
-# Hi there, I'm Nikola G. 👋 
-
-<a href="https://app.daily.dev/amagi_dev"><img src="https://github.com/nikolagp/nikolagp/blob/main/devcard.svg" width="400" alt="Nikola G's Dev Card"/></a>
+# Hi there, I'm Nikola G. 👋
 
 ## Let me introduce myself 
 
@@ -22,6 +20,8 @@ Aside of that I'm learning:
 ### 👯 I’m looking to collaborate on web development projects related to Front End technologies preferably Vue and JavaScript.
 
 ### 📫 You can find me on [Twitter](https://twitter.com/amagi_dev) or contact me on my [email](petrovskinikolag@gmail.com).
+
+<a href="https://app.daily.dev/amagi_dev"><img src="https://github.com/nikolagp/nikolagp/blob/main/devcard.svg" width="400" alt="Nikola G's Dev Card"/></a>
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - - 😄 Pronouns: ...
