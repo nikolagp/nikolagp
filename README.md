@@ -1,5 +1,7 @@
 # Hi there, I'm Nikola G. 👋 
 
+<a href="https://app.daily.dev/amagi_dev"><img src="https://api.daily.dev/devcards/82c8bc5c47e74cadbebabce56cf58bbd.png?r=iit" width="400" alt="Nikola G.'s Dev Card"/></a>
+
 ## Let me introduce myself 
 
 ### 🔭 I’m currently working on improving my Front End skills while taking a course and creating my portfolio + blog... 
