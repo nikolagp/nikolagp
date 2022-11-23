@@ -1,21 +1,19 @@
+<div align="center">
+ 
 # Hi there, I'm Nikola G. 👋
-
-## Let me introduce myself 
-
-### 🔭 I’m currently working on improving my Front End skills while taking a course and creating my portfolio + blog... 
-- I was working mainly with Wordpress CMS, JavaScript and CSS. But it's time to scale up.
+ 
 ### 🌱 I’m currently learning Vue and its ecosystem including:
-- Nuxt, 
-- Vuetify, 
-- Pinia, 
-- Axios,
-- Router, 
-- Vitest etc.
+Nuxt, 
+Vuetify, 
+Pinia, 
+Axios,
+Router, 
+Vitest etc.
 
-Aside of that I'm learning:
-- Tailwind, 
-- Firebase, 
-- PWA
+### Aside of that I'm learning: <br>
+ Tailwind, 
+ Firebase, 
+ PWA
 
 ### 👯 I’m looking to collaborate on web development projects related to Front End technologies preferably Vue and JavaScript.
 
@@ -45,3 +43,5 @@ Project consists of a simple PowerShell script that walks the user through "zero
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2> -->
+ 
+ </div>
