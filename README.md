@@ -3,18 +3,18 @@
 # Hi there, I'm Nikola G. 👋
 </div>
  
-### 🌱 I’m currently learning Vue and its ecosystem including:
-Nuxt, 
-Vuetify, 
-Pinia, 
-Axios,
-Router, 
-Vitest etc.
+### 🌱 I’m currently focussed working with Vue and its ecosystem:
+- Nuxt, 
+- Vuetify, 
+- Pinia, 
+- Axios,
+- Router, 
+- Vitest etc.
 
 ### Aside of that I'm learning: <br>
- Tailwind, 
- Firebase, 
- PWA
+ - Tailwind, 
+ - Firebase, 
+ - Progressive Web App
 
 ### 👯 I’m looking to collaborate on web development projects related to Front End technologies preferably Vue and JavaScript.
 
