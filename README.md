@@ -4,15 +4,15 @@
 </div>
  
 ### 🌱 I’m currently focussed working with Vue and its ecosystem:
-- Nuxt, 
-- Vuetify, 
-- Pinia, 
-- Axios,
-- Router, 
+- Nuxt
+- TailwindCSS
+- Vuetify
+- Pinia
+- Axios
+- Router 
 - Vitest etc.
 
 ### Aside of that I'm learning: <br>
- - Tailwind, 
  - Firebase, 
  - Progressive Web App
 
