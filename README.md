@@ -20,7 +20,7 @@
 ### Aside of that I'm learning: <br>
  - React
 
-### 👯 I’m looking to collaborate on web development projects related to Front End technologies preferably Vue and JavaScript.
+### 👯 I’m looking to collaborate on web development projects related to Front End technologies preferably JavaScript.
 
 ### 📫 You can find me on [Twitter](https://twitter.com/amagi_dev) or contact me on my [email](petrovskinikolag@gmail.com).
 
