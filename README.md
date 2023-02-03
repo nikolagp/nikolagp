@@ -6,21 +6,17 @@
 ### 🌱 I’m currently focussed working with:
 - JavaScript
 - TypeScript
-- TailwindCSS
 - VueJS
-  - VueRouter
-  - Vuetify
-  - Pinia
-  - Vitest
+- React
+- TailwindCSS
 - Nuxt
 - Axios
 - Firebase
 - Progressive Web App
 
-### Aside of that I'm learning: <br>
- - React
+<!-- ### Aside of that I'm learning: <br> -->
 
-### 👯 I’m looking to collaborate on web development projects related to Front End technologies preferably JavaScript.
+### 👯 I’m looking to collaborate on web development projects related to JavaScript.
 
 ### 📫 You can find me on [Twitter](https://twitter.com/amagi_dev) or contact me on my [email](petrovskinikolag@gmail.com).
 
@@ -48,3 +44,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2> -->
+
+<!--   - VueRouter
+  - Vuetify
+  - Pinia
+  - Vitest -->
