@@ -9,14 +9,16 @@
 - VueJS
 - React
 - TailwindCSS
+- Bootstrap
 - Nuxt
 - Axios
 - Firebase
 - Progressive Web App
 
 <!-- ### Aside of that I'm learning: <br> -->
+### 💻 Take a loot at my portfolio [nikolagp.com](https://nikolagp.com)
 
-### 👯 I’m looking to collaborate on web development projects related to JavaScript.
+### 👯 I’m looking to collaborate on web development projects related to JavaScript. 
 
 ### 📫 You can find me on [Twitter](https://twitter.com/amagi_dev) or contact me on my [email](petrovskinikolag@gmail.com).
 
