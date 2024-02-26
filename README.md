@@ -8,11 +8,13 @@
 - TypeScript
 - VueJS
 - React
+- Node
 - TailwindCSS
 - Bootstrap
 - Nuxt
 - Axios
 - Firebase
+- Aws
 - Progressive Web App
 
 <!-- ### Aside of that I'm learning: <br> -->
