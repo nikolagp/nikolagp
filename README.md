@@ -9,6 +9,7 @@
 - VueJS
 - React
 - Node
+- Next.js
 - TailwindCSS
 - Bootstrap
 - Nuxt
@@ -22,7 +23,7 @@
 
 ### 👯 I’m looking to collaborate on web development projects related to JavaScript. 
 
-### 📫 You can find me on [Twitter](https://twitter.com/amagi_dev) or contact me on my [email](petrovskinikolag@gmail.com).
+### 📫 You can find me on [LinkedIn]([https://www.linkedin.com/in/nikola-g-petrovski-b02584b1/]) or contact me on my [email](petrovskinikolag@gmail.com).
 
 <a href="https://app.daily.dev/amagi_dev"><img src="https://github.com/nikolagp/nikolagp/blob/main/devcard.svg" width="400" alt="Nikola G's Dev Card"/></a>
 <!-- - 🤔 I’m looking for help with ...
